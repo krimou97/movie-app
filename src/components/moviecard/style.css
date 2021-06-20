@@ -1,0 +1,45 @@
+.h-card {
+    width: 18rem;
+    height: 25rem;
+    display: flex;
+    flex-direction: column;
+    font-size: 1.2rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    align-items: center;
+}
+
+.img-film img {
+    width: 100%;
+    height: 100%;
+}
+
+.img-film {
+    width: 100%;
+    height: 75%;
+}
+
+.info-film {
+    width: 100%;
+    height: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.info-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.info-description {
+    font-size: 1.2rem;
+}
+
+.rating {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
